@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NM4259 Mobile Interaction Design Blog"
+  navbar: 
+    search: true
+  
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+
+editor: visual
+

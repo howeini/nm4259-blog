@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, I’m Wei Ni!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n     GitHub\n  \n  \n     Email\n  \n\n  \n  \n\n\nA 4th-year student pursuing a double degree in Business Administration & Communications and New Media, with a minor in Interactive Media Development.\n\n\n\nPractical Figma skills - from basic wireframing to interactive prototyping\nMobile design workflows - industry approaches to interface development\nPortfolio-quality projects that show my design thinking process"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Placeholder for Blog #1",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis magna, malesuada sit amet elit nec, condimentum gravida neque. Suspendisse elit velit, iaculis at mauris eu, convallis rhoncus arcu. Nullam sed nisi eros. Quisque non euismod urna. Nulla eleifend gravida luctus. Integer dignissim pretium ornare. Sed rhoncus turpis vel porta interdum. Pellentesque non commodo velit, quis pharetra risus. Fusce vehicula in felis at accumsan. Nunc a congue turpis. Aenean porta hendrerit blandit. Duis id interdum neque. Integer nec purus non massa maximus ornare non quis velit. Aenean iaculis luctus enim, vel condimentum massa feugiat quis. In sed laoreet nisl, nec tincidunt justo.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 15, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 12, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "I’m Wei Ni, in my 4th year pursuing a DDP in business and CNM, with a minor in interactive media development."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-nm4259-blog",
+    "href": "index.html#welcome-to-my-nm4259-blog",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "I was intrigued by the world of UI/UX after taking NM3243 User Experience Design. I want to learn industry level tools like Figma, and gain more technical skills in wireframe and prototyping. Hopefully, i have something to add to my portfolio after the course is completed."
+  },
+  {
+    "objectID": "index.html#hello-im-wei-ni",
+    "href": "index.html#hello-im-wei-ni",
+    "title": "Weekly Individual Blog Posts",
+    "section": "",
+    "text": "A 4th-year student pursuing a double degree in Business Administration & Communications and New Media, with a minor in Interactive Media Development."
+  },
+  {
+    "objectID": "index.html#what-i-hope-to-learn",
+    "href": "index.html#what-i-hope-to-learn",
+    "title": "Hello, I’m Wei Ni!",
+    "section": "",
+    "text": "Practical Figma skills - from basic wireframing to interactive prototyping\nMobile design workflows - industry approaches to interface development\nPortfolio-quality projects that show my design thinking process"
+  }
+]

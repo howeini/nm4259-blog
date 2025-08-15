@@ -1,0 +1,10 @@
+---
+title: "Placeholder for Blog #1"
+date: "2025-08-12"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc felis magna, malesuada sit amet elit nec, condimentum gravida neque. Suspendisse elit velit, iaculis at mauris eu, convallis rhoncus arcu. Nullam sed nisi eros. Quisque non euismod urna. Nulla eleifend gravida luctus. Integer dignissim pretium ornare. Sed rhoncus turpis vel porta interdum. Pellentesque non commodo velit, quis pharetra risus. Fusce vehicula in felis at accumsan. Nunc a congue turpis. Aenean porta hendrerit blandit. Duis id interdum neque. Integer nec purus non massa maximus ornare non quis velit. Aenean iaculis luctus enim, vel condimentum massa feugiat quis. In sed laoreet nisl, nec tincidunt justo.
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
