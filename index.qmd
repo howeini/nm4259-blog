@@ -1,0 +1,45 @@
+---
+about:
+  id: hero-heading
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/howeini
+    - text: GitHub
+      href: https://github.com/howeini
+    - text: Email
+      href: mailto::howeini@u.nus.edu
+---
+
+::: {#hero-heading}
+# Hello, I'm Wei Ni!
+
+A 4th-year student pursuing a double degree in Business Administration & Communications and New Media, with a minor in Interactive Media Development.
+
+## What I Hope to Learn
+
+-   **Practical Figma skills** - from basic wireframing to interactive prototyping
+
+-   **Mobile design workflows** - industry approaches to interface development
+
+-   **Portfolio-quality projects** that show my design thinking process
+:::
+
+<hr>
+
+# **Weekly Individual Blog Posts**
+
+---
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
