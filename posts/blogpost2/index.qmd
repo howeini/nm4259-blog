@@ -1,0 +1,32 @@
+---
+title: "Week 4 - Individual Reflection #2"
+date: "2025-09-07"
+---
+
+Our group decided on two user research methods: contextual inquiry (CI) and a survey. The survey is currently ongoing, but ideally the data would substantiate quantitatively our insights from CI and identify the most pressing pain point to tackle in our design.
+
+**Why Contextual Inquiry?**
+
+It allows us to observe app usage in a natural setting and provides opportunities for clarifications, unlike the Fly On the Wall method. Personally, I feel that users would feel more relaxed narrating in the context of CI as opposed to the Think Aloud method, as the master/apprentice model encourages narration organically. 
+
+**My Experience**
+
+What I found especially important was remembering that we are observing users as they naturally used the app, letting the process unfold on its own terms. Interestingly, the session was what the user described as a "failure", which in hindsight was revealing---it surfaced details I might have missed and showed how "failed" experiences often expose the most useful insights.
+
+> The user ordered TehO on the bus to COM3 despite a \>15 min wait warning, kept refreshing the app which stayed on "Preparing". After 15 minutes of watching in-person orders fulfilled faster, they only got their drink after they approached the vendor.
+
+This experience challenged several of my assumptions.
+
+First, I had assumed that app usage began only at the canteen itself. Yet this user started their journey much earlier, while still on the bus. That made me realise how important the mobile context really is---decisions often begin before on-site arrival. I had also thought users might struggle with recognising canteen names, but for this participant, familiarity from repeated visits meant this step was effortless. Recognition, I realised, depends less on app experience and more on campus familiarity.
+
+![Analysis of Ordering Process](order.jpeg){fig-align="center"}
+
+Keeping a user-centric lens while examining how they interacted with features also revealed several insights. Information presented, such as the number of orders ahead, was not internalised---the user saw the data but could not translate it into what it meant for their own wait time. Checkout, too, felt like muscle memory, an almost unconscious tap rather than a deliberate decision.
+
+![Analysis of Checkout Process](checkout.jpeg){fig-align="center"}
+
+The most striking issue was inconsistent system feedback. Although the order was confirmed, post-payment there were no real-time updates. The status remained stuck at "Preparing", with no signs of progress (e.g., orders ahead reducing), leaving the user anxious and perceiving the order as a "failure". This lack of closure and visibility amplified their anxiety. Yet, despite all this, the distrust seemed situational. They framed it as a "first-time" issue, suggesting their overall trust in the system remained intact.
+
+![Analysis of Collection Process](collection.jpeg){fig-align="center"}
+
+Upon reflection, limitations exist for our study. Most of our observations took place during peak hours, and only at a few canteen locations. All our participants were students, excluding staff and public users, and most orders we observed were single-item purchases. While time pressure definitely shaped who we were able to recruit for CI, I am hopeful that the survey will broaden the scope of our findings!
